@@ -15,7 +15,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/slot-machine-game.git
+   git clone https://github.com/ikomi22/slot-machine-game.git
    ```
 
 2. Navigate to the project directory:
